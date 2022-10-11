@@ -9,3 +9,11 @@ for i in range(n):
 
 print(l)
 
+# dgfd fgd
+#fhytfghf
+#gfhyfbgf
+"""
+sgjfejfhwejfeuwrf
+sefwfwfwjrg
+wrugreg
+"""
