@@ -17,3 +17,6 @@ sgjfejfhwejfeuwrf
 sefwfwfwjrg
 wrugreg
 """
+"""
+how the machine looks good
+"""
